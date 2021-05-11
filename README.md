@@ -1,23 +1,49 @@
----
-### João Vitor here
+<h1>Olá, Mundo!</h1>
 
-I'm a development student.
+<h2>Sou João Vitor, estudante de desenvolvimento. 🤙</h2>
 
----
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
-I am currently developing with these tools and technologies:
+<h1>Estátisticas:</h1>
 
-  <div style="display-flex: justify-content: space-between">
-    <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
-    <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">  
-    <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
-    <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
-    <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
-    <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
-   </div>
- 
- 
- ---
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=JoVi0li&show_icons=true)
 
-🌱 I want to learn <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7">
-  
+<h1>Top linguagens:</h1>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoVi0li&theme=radical)](https://github.com/JoVi0li/github-readme-stats)
+
+<h1>Competências:</h1>
+
+<table>
+    <tr>
+        <th>Front-End</th>
+        <th>Back-End</th>
+        <th>Database</th>
+        <th>Mobile</th>
+    </tr>
+    <tr>
+        <td>Html</td>
+        <td>C#</td>
+        <td>SqlServer</td>
+        <td>Flutter</td>
+    </tr>
+    <tr>
+        <td>Css</td>
+        <td>.Net</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>EntityFramework</td>
+        <td></td>
+        <td></td>
+    </tr>
+</table>
+
+<h2>Me encontre por aí:</h2>
+<ul>
+<!--     <li><a href="https://www.instagram.com/jovi.oli/">Instagram</a></li> -->
+    <li><a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-de-oliveira-da-silva-32a8761a0/">Linkedin</a></li>
+    <li><a href="">Meu site</a></li>
+
