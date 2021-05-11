@@ -22,20 +22,20 @@
         <th>Mobile</th>
     </tr>
     <tr>
-        <td>Html</td>
+        <td>HTML</td>
         <td>C#</td>
         <td>SqlServer</td>
         <td>Flutter</td>
     </tr>
     <tr>
-        <td>Css</td>
+        <td>CSS</td>
         <td>.Net</td>
         <td></td>
         <td></td>
     </tr>
     <tr>
         <td></td>
-        <td>EntityFramework</td>
+        <td>Entity Framework</td>
         <td></td>
         <td></td>
     </tr>
