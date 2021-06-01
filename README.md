@@ -15,35 +15,44 @@
 <h1>Competências:</h1>
 
 <table>
-    <tr>
-        <th>Front-End</th>
-        <th>Back-End</th>
-        <th>Database</th>
-        <th>Mobile</th>
-    </tr>
-    <tr>
-        <td>HTML</td>
-        <td>C#</td>
-        <td>SqlServer</td>
-        <td>Flutter</td>
-    </tr>
-    <tr>
-        <td>CSS</td>
-        <td>.Net</td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td></td>
-        <td>Entity Framework</td>
-        <td></td>
-        <td></td>
-    </tr>
+    <thead>
+         <tr>
+            <th>Front-End</th>
+            <th>Back-End</th>
+            <th>Database</th>
+            <th>Mobile</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>HTML</td>
+            <td>C#</td>
+            <td>SqlServer</td>
+            <td>Flutter</td>
+        </tr>
+        <tr>
+            <td>CSS</td>
+            <td>.Net</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>JavaScript</td>
+            <td>Entity Framework</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>ReactJs</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+    </tbody>
 </table>
 
 <h2>Me encontre por aí:</h2>
 <ul>
-<!--     <li><a href="https://www.instagram.com/jovi.oli/">Instagram</a></li> -->
     <li><a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-de-oliveira-da-silva-32a8761a0/">LinkedIn</a></li>
     <li><a href="">Meu site</a></li>
-
+</ul>
