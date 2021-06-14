@@ -34,7 +34,7 @@
             <td>CSS</td>
             <td>.Net</td>
             <td></td>
-            <td></td>
+            <td>React Native</td>
         </tr>
         <tr>
             <td>JavaScript</td>
