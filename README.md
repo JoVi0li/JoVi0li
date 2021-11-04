@@ -2,8 +2,6 @@
 
 <h2>Sou João Vitor, estudante de desenvolvimento. 🤙</h2>
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
 <h1>Estátisticas:</h1>
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=JoVi0li&show_icons=true)
