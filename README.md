@@ -2,7 +2,7 @@
 
 ##### (but u can call me jovi)
 
-- #### 👨‍💻 currently building cool things at atlas governance 
+- #### 👨‍💻 currently building cool things at [atlas governance](https://welcome.atlasgov.com/pt/) 
 
 - #### 📱 frontend and mobile enthusiast
 
