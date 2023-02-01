@@ -6,7 +6,7 @@
 
 - #### 📱 frontend and mobile enthusiast
 
-- #### 🌱 always learning reactjs, flutter swift and other things
+- #### 🌱 always learning reactjs, flutter, swiftUI and other things
 
 - #### 📫 u can reach me here: [linkedin](https://www.linkedin.com/in/jovioli/) or [gmail](mailto:jovioli.dev04@gmail.com)
 
