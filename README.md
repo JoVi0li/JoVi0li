@@ -10,7 +10,7 @@
 
 - #### 📫 u can reach me here: [linkedin](https://www.linkedin.com/in/jovioli/) or [gmail](mailto:jovioli.dev04@gmail.com)
 
-### my stat's
+### my stats
 ![my stat's](https://github-readme-stats.vercel.app/api?username=JoVi0li&show_icons=true)
 
 ### my languages
